@@ -1,8 +1,10 @@
 {
   "ids": [
-    1
+    1,
+    2
   ],
   "names": [
-    "Welcome to SuperUSB"
+    "Welcome to SuperUSB",
+    "Useless"
   ]
 }
