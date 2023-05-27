@@ -8,6 +8,6 @@
     "Debug"
   ],
   "games": [
-    "@echo off\necho "Welcome to SuperUSB!"\necho "Try using the home command and you are to the main menu"\n:loop\nset /p commd="SuperUSB Welcome App "\nif %commd% == home (exit) else (goto loop)"
+    '@echo off\necho "Welcome to SuperUSB!"\necho "Try using the home command and you are to the main menu"\n:loop\nset /p commd="SuperUSB Welcome App "\nif %commd% == home (exit) else (goto loop)'
   ]
 }
